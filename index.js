@@ -25,11 +25,11 @@ function play(question, answer) {
 }
 var questions = [{
   question: "How many times did india win the cricket worlscup ?            1.one times🤔      2.two times🤔 ",
-  answer: "two times"
+  answer: "2"
 },
 {
   question: "Full form of ODI ?                      1.one day interstate🤔    2.one day international🤔 ",
-  answer: "one day international"
+  answer: "2"
 },
 {
   question: "who is known as the god of cricket ?                1.ms dhoni🤔 2.sachin🤔 ",
