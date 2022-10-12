@@ -33,7 +33,7 @@ var questions = [{
 },
 {
   question: "who is known as the god of cricket ?                1.ms dhoni🤔 2.sachin🤔 ",
-  answer: "sachin"
+  answer: "2"
   
 },
 {
